@@ -484,4 +484,8 @@ pre code { font-size: 15px !important; }
 
 p code { font-size: 19px; }
 
+pre, code { font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 90%; font-weight: 300; line-height: 1.4; }
+
+.highlight .o, .highlight .k { font-weight: 200%; }
+
 /*# sourceMappingURL=style.css.map */
